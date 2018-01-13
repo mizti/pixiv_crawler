@@ -4,3 +4,4 @@ pixiv_images/*
 .python-version
 temp
 temp/*
+client.json
